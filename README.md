@@ -35,3 +35,5 @@ This repository contains implementations of two popular pathfinding algorithms: 
 - **Obstacles**: Defined by polygons representing letters and numbers.
 - **Path Visualization**: Uses Pygame to display the shortest path.
 
+video demo:
+![Demo Video](bfs_dijkstra.webm)
